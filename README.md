@@ -5,3 +5,7 @@ Rede Neural Recorrente(LSTM) para prever o fechamento das ações de uma empresa
 
 https://colab.research.google.com/drive/1Zw-F1Gf-LVINV9HYwquWRTqGvpV-mLvL?usp=sharing
 
+<p align="center">
+  <img src="./cotacao.png" alt="cotacao" width="80%">
+</p>
+
